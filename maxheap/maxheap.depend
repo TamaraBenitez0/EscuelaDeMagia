@@ -1,0 +1,184 @@
+# depslib dependency file v1.0
+1572823283 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\mago\mago.cpp
+	"mago.h"
+
+1572823278 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\mago\mago.h
+	<iostream>
+	"../hechizo/hechizo.h"
+	"../set/set.h"
+
+1572826891 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\hechizo\hechizo.h
+	<iostream>
+
+1571081021 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\set\set.h
+	"../hechizo/hechizo.h"
+
+1572821889 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\maxheap\main.cpp
+	<iostream>
+	"test_maxheap.h"
+
+1570916433 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\hechizo\hechizo.cpp
+	"hechizo.h"
+
+1570921271 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\set\set.cpp
+	"set.h"
+
+1572822976 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\maxheap\maxheap.h
+	<iostream>
+	"../mago/mago.h"
+
+1570914659 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\common\test.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+
+1572826711 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\maxheap\maxheap.cpp
+	"maxheap.h"
+
+1572826657 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\maxheap\test_maxheap.h
+	"maxheap.h"
+	"../hechizo/hechizo.h"
+	"../common/Test.h"
+
+1570916433 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\hechizo\hechizo.cpp
+	"hechizo.h"
+
+1572826891 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\hechizo\hechizo.h
+	<iostream>
+
+1572823283 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\mago\mago.cpp
+	"mago.h"
+
+1572823278 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\mago\mago.h
+	<iostream>
+	"../hechizo/hechizo.h"
+	"../set/set.h"
+
+1571081021 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\set\set.h
+	"../hechizo/hechizo.h"
+
+1570921271 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\set\set.cpp
+	"set.h"
+
+1572821889 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\maxheap\main.cpp
+	<iostream>
+	"test_maxheap.h"
+
+1572826657 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\maxheap\test_maxheap.h
+	"maxheap.h"
+	"../hechizo/hechizo.h"
+	"../common/Test.h"
+
+1572822976 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\maxheap\maxheap.h
+	<iostream>
+	"../mago/mago.h"
+
+1570914659 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\common\test.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+
+1574716784 source:c:\users\publico\desktop\no tocar we\tamara-benitez-tp-ed-2019s2\hechizo\hechizo.cpp
+	"hechizo.h"
+	"../common/Common.h"
+
+1574716784 c:\users\publico\desktop\no tocar we\tamara-benitez-tp-ed-2019s2\hechizo\hechizo.h
+	<iostream>
+
+1574716784 c:\users\publico\desktop\no tocar we\tamara-benitez-tp-ed-2019s2\common\common.h
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<cassert>
+	<iostream>
+
+1574716784 source:c:\users\publico\desktop\no tocar we\tamara-benitez-tp-ed-2019s2\mago\mago.cpp
+	"mago.h"
+	"../common/Common.h"
+
+1574716784 c:\users\publico\desktop\no tocar we\tamara-benitez-tp-ed-2019s2\mago\mago.h
+	<iostream>
+	"../hechizo/hechizo.h"
+	"../set/set.h"
+
+1574716784 c:\users\publico\desktop\no tocar we\tamara-benitez-tp-ed-2019s2\set\set.h
+	"../hechizo/hechizo.h"
+
+1574716784 source:c:\users\publico\desktop\no tocar we\tamara-benitez-tp-ed-2019s2\set\set.cpp
+	"set.h"
+	"../common/Common.h"
+
+1574716784 source:c:\users\publico\desktop\no tocar we\tamara-benitez-tp-ed-2019s2\maxheap\main.cpp
+	<iostream>
+	"test_maxheap.h"
+
+1574716784 c:\users\publico\desktop\no tocar we\tamara-benitez-tp-ed-2019s2\maxheap\test_maxheap.h
+	"maxheap.h"
+	"../hechizo/hechizo.h"
+	"../common/Test.h"
+
+1574716784 c:\users\publico\desktop\no tocar we\tamara-benitez-tp-ed-2019s2\maxheap\maxheap.h
+	<iostream>
+	"../mago/mago.h"
+
+1574716784 c:\users\publico\desktop\no tocar we\tamara-benitez-tp-ed-2019s2\common\test.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+
+1574716786 source:c:\users\geos\desktop\no tocar we\no tocar we\tamara-benitez-tp-ed-2019s2\hechizo\hechizo.cpp
+	"hechizo.h"
+	"../common/Common.h"
+
+1574716786 c:\users\geos\desktop\no tocar we\no tocar we\tamara-benitez-tp-ed-2019s2\hechizo\hechizo.h
+	<iostream>
+
+1574716786 c:\users\geos\desktop\no tocar we\no tocar we\tamara-benitez-tp-ed-2019s2\common\common.h
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<cassert>
+	<iostream>
+
+1574716786 source:c:\users\geos\desktop\no tocar we\no tocar we\tamara-benitez-tp-ed-2019s2\mago\mago.cpp
+	"mago.h"
+	"../common/Common.h"
+
+1574716786 c:\users\geos\desktop\no tocar we\no tocar we\tamara-benitez-tp-ed-2019s2\mago\mago.h
+	<iostream>
+	"../hechizo/hechizo.h"
+	"../set/set.h"
+
+1574716786 c:\users\geos\desktop\no tocar we\no tocar we\tamara-benitez-tp-ed-2019s2\set\set.h
+	"../hechizo/hechizo.h"
+
+1574716786 source:c:\users\geos\desktop\no tocar we\no tocar we\tamara-benitez-tp-ed-2019s2\set\set.cpp
+	"set.h"
+	"../common/Common.h"
+
+1574716786 source:c:\users\geos\desktop\no tocar we\no tocar we\tamara-benitez-tp-ed-2019s2\maxheap\main.cpp
+	<iostream>
+	"test_maxheap.h"
+
+1574716786 c:\users\geos\desktop\no tocar we\no tocar we\tamara-benitez-tp-ed-2019s2\maxheap\test_maxheap.h
+	"maxheap.h"
+	"../hechizo/hechizo.h"
+	"../common/Test.h"
+
+1574716786 c:\users\geos\desktop\no tocar we\no tocar we\tamara-benitez-tp-ed-2019s2\maxheap\maxheap.h
+	<iostream>
+	"../mago/mago.h"
+
+1574716786 c:\users\geos\desktop\no tocar we\no tocar we\tamara-benitez-tp-ed-2019s2\common\test.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+
+1574813189 source:c:\users\geos\desktop\no tocar we\no tocar we\tamara-benitez-tp-ed-2019s2\maxheap\maxheap.cpp
+	"maxheap.h"
+	"../common/Common.h"
+

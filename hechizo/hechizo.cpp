@@ -1,0 +1,51 @@
+#include "hechizo.h"
+#include "../common/Common.h"
+
+struct HechizoSt {
+   string nombre;
+   int poder;
+};
+
+/// Proposito: crea un hechizo dado un nombre y un poder
+Hechizo crearHechizo(string nombre, int poder) {
+   HechizoSt* hechi= new HechizoSt;
+   hechi -> nombre= nombre;
+   hechi -> poder = poder;
+
+   return hechi ;
+}
+
+/// Proposito: retorna el nombre del hechizo
+string nombreHechizo(Hechizo h) {
+   return h-> nombre;
+}
+
+/// Proposito: retorna el poder de un hechizo
+int poderHechizo(Hechizo h) {
+   return h -> poder;
+}
+
+/// Proposito: indica si un hechizo tiene el mismo nombre que otro
+/// Costo: O(1)
+bool mismoHechizo(Hechizo h1, Hechizo h2) {
+   return nombreHechizo(h1)== nombreHechizo(h2);
+}
+
+/// Proposito: indica si el primer hechizo es mas poderoso que el otro
+/// Costo: O(1)
+bool masPoderoso(Hechizo h1, Hechizo h2) {
+   return poderHechizo(h1)> poderHechizo(h2);
+}
+
+void printHechizo(Hechizo h) {
+   cout << "Hechizo: {" << endl;
+   cout << "  nombre: " << h->nombre << endl;
+   cout << "  poder: " << h->poder << endl;
+   cout << "}" << h->poder << endl;
+}
+
+/// Proposito: libera la memoria
+void destroyHechizo(Hechizo h) {
+   delete h;
+}
+
